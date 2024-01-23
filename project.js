@@ -3,6 +3,8 @@
 // 3. 베팅금액 결정(라인 당) 입력
 // 4. Math.random()으로 reel 당 이미지 축출
 // 5. user 의 승리 여부 판단
+// 6. 베팅금액/ 위닝금액 정산
+// 7. 게임 지속 여부
 
 const prompt = require("prompt-sync")({sigint: true});
 
