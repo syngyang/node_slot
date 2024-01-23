@@ -2,7 +2,7 @@
   "name": "node_slot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "project.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
